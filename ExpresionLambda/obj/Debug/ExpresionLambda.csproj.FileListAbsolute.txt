@@ -1,0 +1,5 @@
+c:\users\cedo\documents\visual studio 2012\Projects\ExpresionLambda\ExpresionLambda\bin\Debug\ExpresionLambda.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\ExpresionLambda\ExpresionLambda\bin\Debug\ExpresionLambda.exe
+c:\users\cedo\documents\visual studio 2012\Projects\ExpresionLambda\ExpresionLambda\bin\Debug\ExpresionLambda.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\ExpresionLambda\ExpresionLambda\obj\Debug\ExpresionLambda.exe
+c:\users\cedo\documents\visual studio 2012\Projects\ExpresionLambda\ExpresionLambda\obj\Debug\ExpresionLambda.pdb
